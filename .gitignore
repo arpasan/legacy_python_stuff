@@ -4,3 +4,11 @@ __pycache__/
 *.pyc
 .venv/
 AGENTS.md
+data_local/
+**/flower_photos/
+!projects/**/flower_photos_mini/
+**/.Rhistory
+**/*_cache/
+**/*_files/
+*.rds
+**/header_nocache.html
